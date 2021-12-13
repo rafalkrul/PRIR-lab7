@@ -1,2 +1,2 @@
 # PRIR-lab7
- PRIR lab 7
+ Parking oraz problem fraktala Mandelbrota
